@@ -1,59 +1,41 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# To-Do-List
 
-> One paragraph statement about the project.
+> This Webpage is for an app called To-Do-List which helps you add, remove or check tasks you have to do.
 
-![screenshot](./app_screenshot.png)
+![screenshot](https://user-images.githubusercontent.com/90556221/149033173-5d8a0805-453f-44a5-a69f-3bff67e844ac.png)
 
-Additional description about the project and its features.
+It is a simple web page which contains information about all the tasks you have to do.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML / CSS / JavaScript
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
+- [Github Page Link](https://zhadier.github.io/To-Do-List)
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+### To launch the project locally:
 
+#### Step 1:
 
-To get a local copy up and running follow these simple example steps.
+- Clone this repo locally using git and the following git command
 
-### Prerequisites
+  git clone https://github.com/USERNAME/REPOSITORY
 
-### Setup
+#### Step 2:
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- Run npm install
+- Run npm start 
 
 ## Authors
 
-👤 **Author1**
+👤 **Zeeshan Haider**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@zhadier](https://github.com/zhadier)
 
 ## 🤝 Contributing
 
@@ -66,10 +48,6 @@ Feel free to check the [issues page](../../issues/).
 Give a ⭐️ if you like this project!
 
 ## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
